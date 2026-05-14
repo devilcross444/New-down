@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `004.jpg` |
-| **Size** | 1.05 MB |
+| **Size** | .81 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
