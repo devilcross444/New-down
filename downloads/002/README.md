@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `002.jpg` |
-| **Size** | .95 MB |
+| **Size** | .94 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
